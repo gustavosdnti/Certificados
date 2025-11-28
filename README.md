@@ -43,13 +43,9 @@ Local e Data de Emissão: Osasco, 17/11/2025
 
 🎓 3. Implementando Banco de Dados — Fundação Bradesco
 
-📄 Certificado: Aguardando upload
-
 🏛 Instituição: Fundação Bradesco | Escola Virtual
 
 👤 Beneficiário: Gustavo Soares
-
-📘 Curso: Implementando Banco de Dados
 
 ⏳ Carga Horária: 15 horas
 
