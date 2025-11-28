@@ -18,3 +18,5 @@ e como a IA influencia suas perspectivas sobre o futuro da carreira.
 
 A coleta foi realizada por meio de um questionário online, contendo perguntas estruturadas e abertas, distribuído a profissionais de diferentes níveis de experiência e atuação.
 O questionário teve como finalidade compreender práticas reais, opiniões, percepções e expectativas sobre o uso da Inteligência Artificial no desenvolvimento de software.
+
+[Clique aqui para visualizar o meu TCC:] (https://github.com/gustavosdnti/Certificados/blob/main/TCC/GUSTAVO-SOARES-TCC-VERSAO-DEFINITIVA.pdf)
