@@ -19,6 +19,8 @@ Conclusão: 26 de novembro de 2025
 👉 [Clique aqui para visualizar o certificado](https://github.com/gustavosdnti/Certificados/blob/main/Certificado-Metodologia-Agil-Santander.pdf)
 
 
+
+
 🤖 2. Soluções de IA no GitHub
 
 Instituições: Fundação Bradesco | Escola Virtual + Microsoft
