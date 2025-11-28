@@ -1,6 +1,6 @@
-Este repositório reúne os dados, materiais e análises produzidos durante o estudo de campo do meu Trabalho de Conclusão de Curso em Bacharelado Ciência da Computação (FEMA), cujo foco foi investigar a adoção da Inteligência Artificial no desenvolvimento de software, seus impactos profissionais e as percepções dos desenvolvedores sobre essa transformação tecnológica.
+🎓 Este repositório reúne os dados, materiais e análises produzidos durante o estudo de campo do meu Trabalho de Conclusão de Curso em Bacharelado Ciência da Computação (FEMA), cujo foco foi investigar a adoção da Inteligência Artificial no desenvolvimento de software, seus impactos profissionais e as percepções dos desenvolvedores sobre essa transformação tecnológica.
 
-O estudo de campo foi conduzido com base no método de Análise de Conteúdo de Bardin (2011), que permitiu organizar e interpretar as respostas coletadas de forma sistemática e confiável.
+🎓 O estudo de campo foi conduzido com base no método de Análise de Conteúdo de Bardin (2011), que permitiu organizar e interpretar as respostas coletadas de forma sistemática e confiável.
 
 🎯 Objetivo do Estudo de Campo
 
